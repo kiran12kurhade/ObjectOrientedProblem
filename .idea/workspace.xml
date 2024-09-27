@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Account.executor": "Run",
+    "Application.AccountTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "UC1-ReadStockNames",
     "kotlin-language-version-configured": "true",
@@ -74,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727426872859</updated>
-      <workItem from="1727426873925" duration="4494000" />
+      <workItem from="1727426873925" duration="5344000" />
     </task>
     <servers />
   </component>
