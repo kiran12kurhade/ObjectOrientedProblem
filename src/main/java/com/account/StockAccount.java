@@ -2,7 +2,7 @@ package com.account;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Account {
+public class StockAccount {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         StockPortfolio portfolio = new StockPortfolio();
